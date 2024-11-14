@@ -1,4 +1,9 @@
 # simple_car_game
+
+How to run the system?
+
+To run this project, you don’t need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox. To run this system, first, open the project in your browser by clicking the race.html file. The Car Racing Game In JavaScript with source code is free to download, use for educational purposes only. 
+
 <h3 align="center"> Classic Car Racing game using Vanilla JavaScript </h3>
 
   //document.querySelector('');
